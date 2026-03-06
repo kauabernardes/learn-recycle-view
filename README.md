@@ -1,6 +1,6 @@
 # **Visão Geral**
 
-Exercício de Revisão: apresentando uma tela de login e um dashboard. Realizado sob orientações da professora.
+Exercício do component Recycle View: aprendendo component de lista no android
 
 
 
